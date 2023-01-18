@@ -8,4 +8,4 @@
 
 ##### Оглавление:
 
-1. [Глава 2](https://github.com/13RedFox/JS_Book/blob/main/js/02.js 'Глава 2')
+- [Глава 2 - Структура программы](https://github.com/13RedFox/JS_Book/blob/main/js/02.js 'Глава 2')
