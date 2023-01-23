@@ -6,3 +6,4 @@
 - [3.4 - Массивы](https://github.com/13RedFox/JS_Book/blob/main/3/js/4.js)
 - [3.5 - Методы массивов](https://github.com/13RedFox/JS_Book/blob/main/3/js/5.js)
 - [3.9 - Object.keys, values, entries](https://github.com/13RedFox/JS_Book/blob/main/3/js/9.js)
+- [3.10 - Деструктурирующее присваивание](https://github.com/13RedFox/JS_Book/blob/main/3/js/10.js)
